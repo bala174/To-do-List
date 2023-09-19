@@ -28,9 +28,10 @@ You need a modern web browser installed on your computer.
 ### Installation
 
 1. Clone the repository to your local machine using the following command:
-
    ```bash
    git clone https://github.com/your-username/todo-list-javascript.git
+2. Open the project directory:
+   ```bash
    cd todo-list-javascript
    
 ## Usage
