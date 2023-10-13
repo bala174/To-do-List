@@ -18,7 +18,7 @@ This is a minimalistic To-Do List web application built using HTML, CSS, and Jav
 - Responsive design for both desktop and mobile devices.
 
 ## Demo
-You can try the game live here: [Rock, Paper, Scissors Game Demo]([https://bala174.github.io/stone_paper_scissor/](https://bala174.github.io/To-do-List/)).
+You can try the game live here: [Todo_List_demo](https://bala174.github.io/To-do-List/).
 
 ## Getting Started
 
